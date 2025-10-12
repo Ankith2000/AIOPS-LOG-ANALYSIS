@@ -6,7 +6,7 @@ and machine learning, specifically for anomaly detection in system logs.
 
 Anomaly Detection: Identify unusual patterns or spikes in log behavior.
 Root Cause Analysis: Trace anomalies back to potential sources.
-Predictive Maintenance: Forecast potential failures based on historical logs.
+Predictive Maintenance: Forecast potential failure based on historical logs.
 Alert Prioritization: Automatically categorize alerts based on severity.
 Automated Remediation (Future Scope): Trigger actions when anomalies are detected.
 
