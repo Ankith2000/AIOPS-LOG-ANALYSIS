@@ -2,6 +2,7 @@ import pandas as pd
 import numpy as np
 from sklearn.ensemble import IsolationForest
 
+#AUTHOR: ANKITH
 # Read log file
 log_file_path = "system_logs.txt"  # Update with your file path if needed
 with open(log_file_path, "r") as file:
